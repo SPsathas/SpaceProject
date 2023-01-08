@@ -1,6 +1,6 @@
 # SpaceProject
 
-Welcome to my repository for the Juno spacedata bow shock normal calculations. Thid project was done for the course EF1110 for the KTH in Stockholm.
+Welcome to my repository for the Juno spacedata bow shock normal calculations. This project was done for the course EF1110 for the KTH in Stockholm.
 
 To be able to run these functions you need to download the Matlab space data analysis package irfu-matlab from here: 
 - https://github.com/irfu/irfu-matlab
