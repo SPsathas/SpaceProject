@@ -12,7 +12,7 @@ For the files you also need to download some data files to read from the Juno sp
 
 To read in some data you can use the following function in this repository:
 ```JUNO_read_b([startdate, enddate])```
-The startdate and enddate need to be in formate of [Year, Month, Day, Hour, Minute, Second]
+The startdate and enddate need to be in the format of [Year, Month, Day, Hour, Minute, Second]
 
 If you got the correct date loaded in you can use one of these methods: 
 1. JUNO_coplanarity_theta(startdate, direction, interval)
